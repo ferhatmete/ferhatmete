@@ -32,6 +32,9 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjslogoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angularlogoColor=61DAFB)
+
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=reduxlogoColor=61DAFB)
 
 ![Html](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
@@ -39,6 +42,8 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
+
+![C#](https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=C#&logoColor=61DAFB)
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhatmete/)
