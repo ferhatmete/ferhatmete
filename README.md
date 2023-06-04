@@ -35,6 +35,7 @@
 
 ![Html](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/Scss-20232A?style=for-the-badge&logo=scss&logoColor=61DAFB)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
