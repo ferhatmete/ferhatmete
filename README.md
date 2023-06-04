@@ -43,7 +43,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
 
-![C #](https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=C&logoColor=61DAFB)
+![C #](https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhatmete/)
