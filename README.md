@@ -14,7 +14,6 @@
 
 ## 💻 GitHub Profile Stats
 <div>
-<img width="49.5%" height="220px" alt="ferhatmete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferhatmete&show_icons=true&count_private=true&theme=nord"/>
 <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatmete&theme=nord" alt="ferhatmete" />
 
 <div/>
