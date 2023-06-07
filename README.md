@@ -15,12 +15,8 @@
 ## 💻 GitHub Profile Stats
 <div>
 <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatmete&theme=nord" alt="ferhatmete" />
-
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatmete&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nord" alt="ferhatmete" height="192px"/>
 <div/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatmete&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nord" alt="ferhatmete" height="192px"/>
-  <br/></p>
-  </p>
 
 ----
 
