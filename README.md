@@ -16,8 +16,12 @@
 <div>
 <img width="49.5%" height="220px" alt="ferhatmete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferhatmete&show_icons=true&count_private=true&theme=nord"/>
 <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatmete&theme=nord" alt="ferhatmete" />
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatmete&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nord" alt="ferhatmete" height="192px"/>
 <div/>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhatmete&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nord" alt="7oSkaaa" height="192px"/>
+  <br/></p>
+  </p>
 
 ----
 
