@@ -16,8 +16,6 @@
 <div>
 <!-- <img width="49.5%" height="220px" alt="ferhatmete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferhatmete&show_icons=true&count_private=true&theme=nord"/> -->
 <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhatmete&theme=nord" alt="ferhatmete" />
-<img width="49.5%" height="220px" 
-src="https://camo.githubusercontent.com/e19e30becc087779f762bb19a45d144691be38fb6c23eb6925106f5efc3bc360/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d546f6c67616973696b70266c616e67735f636f756e743d31302673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6e6f7264"/>
 <div/>
 
 ----
