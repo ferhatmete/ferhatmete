@@ -6,9 +6,9 @@
 <h2> 🤵 About Me: </h2>
 
 - 🌱 I’m currently a Frontend Developer at Sercair
-- 🔭 I’m currently exploring on ReactJS, NextJS, Angular and C#.
+- 🔭 I’m currently exploring on ReactJS, React Native and NodeJS.
 - 👯 I’m looking to collaborate on Frontend projects.
-- 🎯 I’m currently focusing on: React and NextJS.
+- 🎯 I’m currently focusing on: React, NextJS and NodeJS.
 - 🌟 Main languages: Javascript
 - 🎵 Love metal, rock, deep house and synthwave musics.
 
