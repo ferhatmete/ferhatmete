@@ -5,7 +5,7 @@
 
 <h2> 🤵 About Me: </h2>
 
-- 🌱 I’m currently a Frontend Developer at Sercair
+- 🌱 I’m currently a Frontend Developer at iyziShip
 - 🔭 I’m currently exploring on ReactJS, React Native and NodeJS.
 - 👯 I’m looking to collaborate on Frontend projects.
 - 🎯 I’m currently focusing on: React, NextJS and NodeJS.
