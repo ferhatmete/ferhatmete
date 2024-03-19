@@ -45,4 +45,3 @@
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhatmete/)
-[![Mail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmaillogoColor=61DAFB)](mailto:ferhatmete9224@gmail.com)
