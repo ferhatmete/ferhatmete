@@ -28,7 +28,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjslogoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angularlogoColor=61DAFB)
 
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=reduxlogoColor=61DAFB)
 
